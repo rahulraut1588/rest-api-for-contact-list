@@ -1,0 +1,30 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Implemented REST API for contact list app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulraut1588/rest-api-for-contact-list.git"
+  },
+  "keywords": [
+    "restapi",
+    "rest",
+    "contactlist",
+    "contact"
+  ],
+  "author": "Rahul Raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulraut1588/rest-api-for-contact-list/issues"
+  },
+  "homepage": "https://github.com/rahulraut1588/rest-api-for-contact-list#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
